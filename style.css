@@ -13,7 +13,6 @@ body {
     height: 100vh;
     width: 100vw;
     -webkit-tap-highlight-color: transparent;
-    overflow: hidden;
 }
 
 body::-webkit-scrollbar {
