@@ -123,6 +123,8 @@ h3 {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 1;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
     -webkit-user-select: none;
 }
