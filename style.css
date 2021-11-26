@@ -138,6 +138,12 @@ h3 {
     transition: all 0.3s ease;
 }
 
+@media only screen and (max-width: 63.9375em) {
+    .delete-icon {
+        right: 0px;
+    }
+}
+
 .todo-item:hover .delete-icon {
     right: 0;
 }
